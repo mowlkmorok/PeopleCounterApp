@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PeopleCount</string>
+    <string name="_0">0</string>
+    <string name="peoples_count_0">Peoples Count: 0</string>
+    <string name="reset">Reset</string>
+    <string name="man">Man</string>
+    <string name="girls">Girls</string>
+</resources>
